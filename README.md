@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Clever Cloud as SWE intern<br>🌱 I’m currently learning react<br>⚡ Fun fact I chose this major because when I was little, <br>watching scientists (crazy or not) creating things in cartoons <br>sparked my love for technology. <br>That's why programming generates the same excitement in me, <br>and I connect with the feeling I had as a child.
+🔭  I’m currently learning react<br>⚡ Fun fact I chose this major because when I was little, <br>watching scientists (crazy or not) creating things in cartoons <br>sparked my love for technology. <br>That's why programming generates the same excitement in me, <br>and I connect with the feeling I had as a child.
 
 
 ## 🌐 Socials:
